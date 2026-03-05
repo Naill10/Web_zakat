@@ -26,7 +26,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         jenis_zakat='$jenis',
         jumlah_rupiah='$jumlah_rupiah',
         jumlah_beras='$jumlah_beras',
-        metode='$metode',
+        metode='$metode',   
         keterengan='$keterangan'
         WHERE id_zakat='$id'";
 

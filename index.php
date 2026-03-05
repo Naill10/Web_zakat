@@ -386,67 +386,67 @@ include 'config.php';
 
   <footer id="footer" class="footer light-background">
 
-    <div class="container footer-top">
-      <div class="row gy-4">
-        <div class="col-lg-5 col-md-12 footer-about">
-          <a href="index.html" class="logo d-flex align-items-center">
-            <span class="sitename">OnePage</span>
-          </a>
-          <p>Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita valies darta donna mare fermentum iaculis eu non diam phasellus.</p>
-          <div class="social-links d-flex mt-4">
-            <a href=""><i class="bi bi-twitter-x"></i></a>
-            <a href=""><i class="bi bi-facebook"></i></a>
-            <a href=""><i class="bi bi-instagram"></i></a>
-            <a href=""><i class="bi bi-linkedin"></i></a>
-          </div>
-        </div>
+  <div class="container footer-top">
+    <div class="row gy-4">
 
-        <div class="col-lg-2 col-6 footer-links">
-          <h4>Useful Links</h4>
-          <ul>
-            <li><a href="#">Home</a></li>
-            <li><a href="#">About us</a></li>
-            <li><a href="#">Services</a></li>
-            <li><a href="#">Terms of service</a></li>
-            <li><a href="#">Privacy policy</a></li>
-          </ul>
-        </div>
+      <div class="col-lg-5 col-md-12 footer-about">
+        <a href="index.html" class="logo d-flex align-items-center">
+          <span class="sitename">Ramadan Kareem</span>
+        </a>
+        <p>
+          Ramadan adalah bulan penuh berkah, ampunan, dan kebaikan. 
+          Mari tingkatkan ibadah, berbagi dengan sesama melalui zakat, 
+          sedekah, dan amal kebaikan lainnya.
+        </p>
 
-        <div class="col-lg-2 col-6 footer-links">
-          <h4>Our Services</h4>
-          <ul>
-            <li><a href="#">Web Design</a></li>
-            <li><a href="#">Web Development</a></li>
-            <li><a href="#">Product Management</a></li>
-            <li><a href="#">Marketing</a></li>
-            <li><a href="#">Graphic Design</a></li>
-          </ul>
+        <div class="social-links d-flex mt-4">
+          <a href="#"><i class="bi bi-facebook"></i></a>
+          <a href="#"><i class="bi bi-instagram"></i></a>
+          <a href="#"><i class="bi bi-whatsapp"></i></a>
+          <a href="#"><i class="bi bi-youtube"></i></a>
         </div>
-
-        <div class="col-lg-3 col-md-12 footer-contact text-center text-md-start">
-          <h4>Contact Us</h4>
-          <p>A108 Adam Street</p>
-          <p>New York, NY 535022</p>
-          <p>United States</p>
-          <p class="mt-4"><strong>Phone:</strong> <span>+1 5589 55488 55</span></p>
-          <p><strong>Email:</strong> <span>info@example.com</span></p>
-        </div>
-
       </div>
-    </div>
 
-    <div class="container copyright text-center mt-4">
-      <p>© <span>Copyright</span> <strong class="px-1 sitename">OnePage</strong> <span>All Rights Reserved</span></p>
-      <div class="credits">
-        <!-- All the links in the footer should remain intact. -->
-        <!-- You can delete the links only if you've purchased the pro version. -->
-        <!-- Licensing information: https://bootstrapmade.com/license/ -->
-        <!-- Purchase the pro version with working PHP/AJAX contact form: [buy-url] -->
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a> | <a href="https://bootstrapmade.com/tools/">DevTools</a>
+      <div class="col-lg-2 col-6 footer-links">
+        <h4>Menu</h4>
+        <ul>
+          <li><a href="#">Beranda</a></li>
+          <li><a href="#">Tentang</a></li>
+          <li><a href="#">Program</a></li>
+          <li><a href="#">Zakat</a></li>
+          <li><a href="#">Kontak</a></li>
+        </ul>
       </div>
-    </div>
 
-  </footer>
+      <div class="col-lg-2 col-6 footer-links">
+        <h4>Layanan</h4>
+        <ul>
+          <li><a href="#">Zakat Fitrah</a></li>
+          <li><a href="#">Zakat Mal</a></li>
+          <li><a href="#">Sedekah</a></li>
+          <li><a href="#">Donasi Ramadan</a></li>
+          <li><a href="#">Program Sosial</a></li>
+        </ul>
+      </div>
+
+      <div class="col-lg-3 col-md-12 footer-contact text-center text-md-start">
+        <h4>Kontak</h4>
+        <p>Indonesia</p>
+        <p>Jawa Barat</p>
+        <p class="mt-4"><strong>Phone:</strong> <span>+62 xxx xxxx xxxx</span></p>
+        <p><strong>Email:</strong> <span>info@ramadan.com</span></p>
+      </div>
+
+    </div>
+  </div>
+
+  <div class="container copyright text-center mt-4">
+    <p>© <span>Copyright</span> 
+    <strong class="px-1 sitename">Abbad Nailun Nabhan</strong> 
+    <span>All Rights Reserved</span></p>
+  </div>
+
+</footer>
 
   <!-- Scroll Top -->
   <a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
